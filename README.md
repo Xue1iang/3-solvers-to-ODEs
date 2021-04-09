@@ -10,4 +10,8 @@ All of the three models are tested using the datasets form Marin and Keir. Datas
 
 This repo contains a package of datasets, and three MATLAB codes of ODE solver.
 
-## 
+## Plots
+
+
+1. Plot F_r and r_sim r_experiment for a dataset where excitation of predominantly in yaw
+![untitled](https://user-images.githubusercontent.com/77399327/114142353-70407e00-9945-11eb-9677-908e65c1ff68.jpg)
