@@ -18,3 +18,10 @@ This repo contains a package of datasets, and three MATLAB codes of ODE solver.
 
 2. Quiverplot
 ![quiver](https://user-images.githubusercontent.com/77399327/114143163-60756980-9946-11eb-86bd-22f4f4420c27.jpg)
+
+### Runge-Kutta Method
+The accuracy of this solver can be changed via changing the step.
+![RK](https://user-images.githubusercontent.com/77399327/114151689-f5309500-994f-11eb-8f6f-a8540390d09c.jpg)
+
+### Euler's Method
+![euler](https://user-images.githubusercontent.com/77399327/114153763-40e43e00-9952-11eb-870b-cee163689a25.jpg)
